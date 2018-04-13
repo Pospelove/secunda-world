@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":201531,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":-2113,"x":3367,"type":"Activator","z":409,"isHarvested":false,"locationID":86703,"angleZ":0,"refID":222151}
+{"isCollectedItem":true,"isDisabled":true,"angleY":0,"baseID":201531,"inventoryStr":"[]","lockLevel":0,"numActivates":3,"type":"Activator","angleX":0,"y":-2113,"x":3367,"z":409,"refID":222151,"isOpen":false,"locationID":86703,"angleZ":0,"isHarvested":false}

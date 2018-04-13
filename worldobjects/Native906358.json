@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":622448,"inventoryStr":"[{\"count\":7,\"iden\":\"Помидор\"},{\"count\":6,\"iden\":\"Чеснок\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":-983,"x":663,"refID":906358,"z":-268,"isOpen":false,"locationID":92675,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":622448,"inventoryStr":"[]","lockLevel":0,"numActivates":6,"type":"Container","isHarvested":false,"refID":906358,"angleZ":0,"x":663,"angleX":0,"z":-268,"isOpen":true,"locationID":92675,"filled8":true,"y":-983}

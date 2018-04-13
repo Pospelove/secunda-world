@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":622420,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":1368,"x":-4161,"type":"Container","z":6913,"isHarvested":false,"locationID":93682,"angleZ":0,"refID":843041}
+{"isDisabled":false,"angleY":0,"baseID":622420,"inventoryStr":"[{\"count\":1,\"iden\":\"Метла\"}]","lockLevel":0,"numActivates":10,"type":"Container","angleX":0,"y":1368,"x":-4161,"z":6913,"refID":843041,"isOpen":true,"locationID":93682,"angleZ":0,"isHarvested":false}

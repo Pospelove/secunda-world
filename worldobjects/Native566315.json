@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":622444,"inventoryStr":"[{\"count\":15,\"iden\":\"Чеснок\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":-129,"x":-1621,"refID":566315,"z":1629,"isOpen":false,"locationID":336784,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":622444,"inventoryStr":"[{\"count\":13,\"iden\":\"Красное яблоко\"}]","lockLevel":0,"numActivates":12,"type":"Container","angleX":0,"refID":566315,"angleZ":0,"x":-1621,"isHarvested":false,"z":1629,"isOpen":true,"locationID":336784,"filled8":true,"y":-129}

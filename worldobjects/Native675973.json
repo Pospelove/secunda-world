@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":132699,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":6216,"x":-611,"type":"Container","z":-330,"isHarvested":false,"locationID":86672,"angleZ":0,"refID":675973}
+{"isDisabled":false,"angleY":0,"baseID":132699,"inventoryStr":"[{\"count\":1,\"iden\":\"Стальной меч\"}]","lockLevel":0,"numActivates":14,"isOpen":true,"angleX":0,"y":6216,"x":-611,"isHarvested":false,"z":-330,"type":"Container","locationID":86672,"angleZ":0,"refID":675973}

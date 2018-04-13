@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":150693,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":1384,"x":-4474,"type":"Container","z":6928,"isHarvested":false,"locationID":93682,"angleZ":0,"refID":842978}
+{"isDisabled":false,"angleY":0,"baseID":150693,"inventoryStr":"[{\"count\":2,\"iden\":\"Одежда2\"},{\"count\":2,\"iden\":\"Одежда9\"}]","lockLevel":0,"numActivates":12,"type":"Container","isHarvested":false,"y":1384,"x":-4474,"refID":842978,"z":6928,"isOpen":true,"locationID":93682,"angleZ":0,"angleX":0}

@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":622417,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":-506,"x":-1199,"type":"Container","z":81,"isHarvested":false,"locationID":91573,"angleZ":0,"refID":840657}
+{"isDisabled":false,"angleY":0,"baseID":622417,"inventoryStr":"[{\"count\":5,\"iden\":\"Чеснок\"}]","lockLevel":0,"numActivates":28,"type":"Container","isHarvested":false,"y":-506,"x":-1199,"refID":840657,"z":81,"isOpen":true,"locationID":91573,"angleZ":0,"angleX":0}

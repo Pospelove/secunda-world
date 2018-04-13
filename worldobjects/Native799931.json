@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[{\"count\":12,\"iden\":\"Морковь\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":104563,"x":-60896,"refID":799931,"z":-8336,"isOpen":false,"locationID":229087,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[]","lockLevel":0,"numActivates":24,"isOpen":true,"isHarvested":false,"angleX":0,"y":104563,"x":-60896,"angleZ":0,"z":-8336,"type":"Container","locationID":229087,"filled8":true,"refID":799931}

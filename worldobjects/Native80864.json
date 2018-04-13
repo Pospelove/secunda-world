@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":-0,"baseID":171184,"inventoryStr":"[]","lockLevel":0,"numActivates":4,"type":"TeleportDoor","isHarvested":false,"refID":80864,"y":-453,"x":1023,"angleZ":3,"z":-1,"teleportTarget":96066,"locationID":80521,"isOpen":false,"angleX":0}
+{"isDisabled":false,"angleY":-0,"baseID":171184,"inventoryStr":"[]","lockLevel":0,"numActivates":46,"isOpen":false,"angleX":0,"z":-1,"y":-453,"x":1023,"angleZ":3,"refID":80864,"teleportTarget":96066,"locationID":80521,"type":"TeleportDoor","isHarvested":false}

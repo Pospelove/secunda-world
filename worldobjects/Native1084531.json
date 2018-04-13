@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":622436,"inventoryStr":"[{\"count\":14,\"iden\":\"Соль\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":-47522,"x":98767,"refID":1084531,"z":4506,"isOpen":false,"locationID":60,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":622436,"inventoryStr":"[]","lockLevel":0,"numActivates":8,"isOpen":true,"isHarvested":false,"y":-47522,"angleZ":0,"x":98767,"type":"Container","z":4506,"angleX":0,"locationID":60,"filled8":true,"refID":1084531}

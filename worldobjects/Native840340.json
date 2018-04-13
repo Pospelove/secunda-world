@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":1918,"x":2422,"type":"Container","z":317,"isHarvested":false,"locationID":596179,"angleZ":0,"refID":840340}
+{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[{\"count\":12,\"iden\":\"Красное яблоко\"},{\"count\":14,\"iden\":\"Лук-порей\"}]","lockLevel":0,"numActivates":6,"type":"Container","angleX":0,"y":1918,"x":2422,"z":317,"refID":840340,"isOpen":true,"locationID":596179,"angleZ":0,"isHarvested":false}

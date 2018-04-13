@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":136037,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":-1720,"x":-1548,"type":"Container","z":832,"isHarvested":false,"locationID":619161,"angleZ":0,"refID":801758}
+{"isDisabled":false,"angleY":0,"baseID":136037,"inventoryStr":"[{\"count\":2,\"iden\":\"Одежда2\"}]","lockLevel":0,"numActivates":18,"isOpen":true,"isHarvested":false,"y":-1720,"x":-1548,"angleX":0,"refID":801758,"type":"Container","locationID":619161,"angleZ":0,"z":832}

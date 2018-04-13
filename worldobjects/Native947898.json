@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":240673,"inventoryStr":"[{\"count\":1,\"iden\":\"Железная булава\"},{\"count\":14,\"iden\":\"Золото\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":1045,"x":2387,"refID":947898,"z":175,"isOpen":false,"locationID":746676,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":240673,"inventoryStr":"[]","lockLevel":0,"numActivates":34,"type":"Container","angleX":0,"refID":947898,"angleZ":0,"x":2387,"isHarvested":false,"z":175,"isOpen":true,"locationID":746676,"filled8":true,"y":1045}

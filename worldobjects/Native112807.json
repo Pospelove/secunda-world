@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":-57567,"x":101758,"type":"Container","z":11104,"isHarvested":false,"locationID":60,"angleZ":0,"refID":112807}
+{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[{\"count\":1,\"iden\":\"Пивная кружка\"}]","lockLevel":0,"numActivates":12,"type":"Container","isHarvested":false,"y":-57567,"x":101758,"refID":112807,"z":11104,"isOpen":true,"locationID":60,"angleZ":0,"angleX":0}

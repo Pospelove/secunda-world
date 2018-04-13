@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":600848,"inventoryStr":"[{\"count\":12,\"iden\":\"Картофель\"},{\"count\":10,\"iden\":\"Морковь\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":122691,"x":-50539,"refID":794769,"z":-13692,"isOpen":false,"locationID":60,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":600848,"inventoryStr":"[]","lockLevel":0,"numActivates":18,"isOpen":true,"angleX":0,"y":122691,"angleZ":0,"x":-50539,"type":"Container","z":-13692,"isHarvested":false,"locationID":60,"filled8":true,"refID":794769}

@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":409746,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":84,"x":-5227,"type":"Door","z":1583,"isHarvested":false,"locationID":126562,"angleZ":0,"refID":978416}
+{"isDisabled":false,"angleY":0,"baseID":409746,"inventoryStr":"[]","lockLevel":0,"numActivates":1,"type":"Door","isHarvested":false,"y":84,"x":-5227,"refID":978416,"z":1583,"isOpen":false,"locationID":126562,"angleZ":0,"angleX":0}

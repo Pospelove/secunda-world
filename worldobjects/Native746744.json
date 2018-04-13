@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[{\"count\":14,\"iden\":\"Лук-порей\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":344,"x":1550,"refID":746744,"z":135,"isOpen":false,"locationID":746676,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":2117,"inventoryStr":"[]","lockLevel":0,"numActivates":4,"type":"Container","isHarvested":false,"refID":746744,"angleZ":0,"x":1550,"angleX":0,"z":135,"isOpen":true,"locationID":746676,"filled8":true,"y":344}

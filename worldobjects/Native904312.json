@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":150694,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":4550,"x":559,"type":"Container","z":-368,"isHarvested":false,"locationID":527466,"angleZ":0,"refID":904312}
+{"isDisabled":false,"angleY":0,"baseID":150694,"inventoryStr":"[{\"count\":2,\"iden\":\"Óòþã\"}]","lockLevel":0,"numActivates":40,"type":"Container","angleX":0,"y":4550,"x":559,"z":-368,"refID":904312,"isOpen":true,"locationID":527466,"angleZ":0,"isHarvested":false}

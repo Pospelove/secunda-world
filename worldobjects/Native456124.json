@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":132720,"inventoryStr":"[]","lockLevel":0,"numActivates":0,"isOpen":false,"angleX":0,"y":8527,"x":157,"type":"Container","z":-1529,"isHarvested":false,"locationID":445627,"angleZ":0,"refID":456124}
+{"isDisabled":false,"angleY":0,"baseID":132720,"inventoryStr":"[{\"count\":2,\"iden\":\"Древний нордский меч\"}]","lockLevel":0,"numActivates":4,"isOpen":true,"isHarvested":false,"y":8527,"x":157,"angleX":0,"refID":456124,"type":"Container","locationID":445627,"angleZ":0,"z":-1529}

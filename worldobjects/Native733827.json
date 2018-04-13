@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":240673,"inventoryStr":"[{\"count\":10,\"iden\":\"Золото\"},{\"count\":1,\"iden\":\"Стальной меч\"}]","lockLevel":0,"numActivates":0,"type":"Container","isHarvested":false,"angleZ":0,"y":66124,"x":170785,"refID":733827,"z":-14255,"isOpen":false,"locationID":60,"filled8":true,"angleX":0}
+{"isDisabled":false,"angleY":0,"baseID":240673,"inventoryStr":"[]","lockLevel":0,"numActivates":8,"isOpen":true,"isHarvested":false,"y":66124,"angleZ":0,"x":170785,"type":"Container","z":-14255,"angleX":0,"locationID":60,"filled8":true,"refID":733827}

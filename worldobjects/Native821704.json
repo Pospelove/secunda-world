@@ -1,1 +1,1 @@
-{"isDisabled":false,"angleY":0,"baseID":132687,"inventoryStr":"[{\"count\":1,\"iden\":\"Железный кинжал\"},{\"count\":3,\"iden\":\"Золото\"}]","lockLevel":0,"numActivates":2,"isOpen":true,"isHarvested":false,"angleX":0,"y":2224,"x":-3072,"angleZ":0,"z":-217,"type":"Container","locationID":86564,"filled8":true,"refID":821704}
+{"isDisabled":false,"angleY":0,"baseID":132687,"inventoryStr":"[]","lockLevel":0,"numActivates":162,"type":"Container","angleX":0,"refID":821704,"angleZ":0,"x":-3072,"isHarvested":false,"z":-217,"isOpen":true,"locationID":86564,"filled8":true,"y":2224}
